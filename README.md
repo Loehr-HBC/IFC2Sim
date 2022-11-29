@@ -1,3 +1,4 @@
 # IFC2Sim
 
-Bridge between vi-suite and BlenderBIM
+Add-on for Blender.
+Bridge between vi-suite and BlenderBIM.
